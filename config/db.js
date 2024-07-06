@@ -1,18 +1,23 @@
 const envelopes = [
   {
     id: 1,
-    title: "Rent",
-    budget: 1000,
+    title: "Tuition",
+    budget: "700",
   },
   {
     id: 2,
     title: "Groceries",
-    budget: 300,
+    budget: "330",
   },
   {
     id: 3,
+    title: "Insurance",
+    budget: "150",
+  },
+  {
+    id: 4,
     title: "Entertainment",
-    budget: 400,
+    budget: 200,
   },
 ];
 
