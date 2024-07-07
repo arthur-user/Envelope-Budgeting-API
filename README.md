@@ -25,5 +25,5 @@ Available Swagger tests:
 
 ## Possible extensions for the API:
 
-- To bolster user security, add authentication and authorization
+- Add authentication and authorization in order to strengthen user security
 - Establish a new API endpoint where users can add a single balance that's shared across several envelopes
