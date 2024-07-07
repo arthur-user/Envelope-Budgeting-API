@@ -27,3 +27,6 @@ Available Swagger tests:
 
 - Add authentication and authorization in order to strengthen user security
 - Establish a new API endpoint where users can add a single balance that's shared across several envelopes
+
+#Possible dependency issues:
+Please check the appropriate versions of the software used. The Node modules are included within the node_modules folder, and may also be downloaded from: 
