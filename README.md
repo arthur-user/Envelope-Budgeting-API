@@ -8,7 +8,7 @@ To locally run the application, Node.js needs to be installed.  Install the requ
 
 After the server has been successfully initialized, the API may be accessed by typing in your browser address bar: `http://localhost:3000/`
 
-## Using Swagger
+## <span style="color:blue;font-weight:700;font-size:20px">Using Swagger</span>
 
 Swagger testing and documentation are available at:
 
