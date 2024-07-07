@@ -23,7 +23,7 @@ Available Swagger tests:
 * Delete an envelope: `DELETE /api/v1/envelope/{id}`
 * Transfer funds from one envelope to another: `POST /api/v1/envelope/{fromId}/transfer/{toId}`
 
-## Possible extensions for the API:
+## $${\color{blue}Possible extensions for the API:}$$
 
 - Add authentication and authorization in order to strengthen user security
 - Establish a new API endpoint where users can add a single balance that's shared across several envelopes
@@ -31,4 +31,4 @@ Available Swagger tests:
 ### Possible dependency issues:
 Please check the appropriate versions of the software used. The Node modules are included within the <mark >node_modules</mark> folder, and may also be downloaded from: [node_modules](https://drive.google.com/drive/folders/1mSJleYqWMx7f-_rkhE7lkm_PImpKae0d?usp=sharing)
 
-$${\color{red}Red}$$	
+
