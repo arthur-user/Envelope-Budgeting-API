@@ -1,6 +1,8 @@
 const express = require("express");
 const dotenv = require("dotenv");
 const logger = require("morgan");
+/*. Storing configuration in the environment separate from code is based on The Twelve-Factor 
+App methodology.*/
 
 dotenv.config({ path: "./config/config.env" });
 
