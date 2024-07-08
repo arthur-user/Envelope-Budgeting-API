@@ -6,7 +6,7 @@ A Node.js API using the Express framework in order to calculate the daily budget
 
 To locally run the application, Node.js needs to be installed.  Install the required dependencies through `npm install`, and then start the server through `npm run start`
 
-After the server has been successfully initialized, the API may be accessed by typing in your browser address bar: `http://localhost:3000/`
+After the server has been successfully initialized, the API may be accessed through: `http://localhost:3000/`
 
 ## Using Swagger
 
