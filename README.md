@@ -1,4 +1,4 @@
-# Personal budget API
+# Personal Budget API 📃
 
 A Node.js API using the Express framework to calculate the daily budget expenditure through the means of envelope budgeting. Users are able to create, read, update, and delete (CRUD) their personal portfolios.
 
@@ -28,7 +28,7 @@ Available Swagger tests:
 - Add authentication and authorization in order to strengthen user security
 - Establish a new API endpoint where users can add a single balance that's shared across several envelopes
 
-### Possible dependency issues:
-Please check the appropriate versions of the software used. The Node modules are included within the <mark >node_modules</mark> folder, and may also be downloaded from: [node_modules](https://drive.google.com/drive/folders/1mSJleYqWMx7f-_rkhE7lkm_PImpKae0d?usp=sharing)
+### Possible dependency issues: 📍
+Please check the appropriate versions of the software used in <mark >package.json</mark>. The Node modules are included within the <mark >node_modules</mark> folder, and may also be downloaded from: [node_modules](https://drive.google.com/drive/folders/1mSJleYqWMx7f-_rkhE7lkm_PImpKae0d?usp=sharing)
 
 
