@@ -12,7 +12,7 @@ After the server has been successfully initialized, the API may be accessed thro
 
 Swagger testing and documentation are available at:
 
-`http://localhost:3000/api-docs/`
+`http://localhost:3000/api-documents/`
 
 Available Swagger tests:
 
