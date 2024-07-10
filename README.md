@@ -1,6 +1,6 @@
 # Personal Budget API 📃
 
-A REST API built through Node.js using the Express framework to calculate the daily budget expenditure through the means of [envelope budgeting](https://www.investopedia.com/envelope-budgeting-system-5208026). Users are able to create, read, update, and delete (CRUD) their personal portfolios, as well as transfer funds from one envelope to another.
+A REST API built through Node.js using the Express framework that calculates the daily budget expenditure through the means of [envelope budgeting](https://www.investopedia.com/envelope-budgeting-system-5208026). Users are able to create, read, update, and delete (CRUD) their personal portfolios, as well as transfer funds from one envelope to another.
 
 ## Running the application:
 
