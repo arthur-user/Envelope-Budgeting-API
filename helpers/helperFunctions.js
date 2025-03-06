@@ -2,7 +2,7 @@ module.exports = {
   newid(data) {
     const newRecord = data[data.length - 1];
     const newid = newRecord.id + 1;
-    if (newid === NaN || newid < 0 || newid === undefined) {
+    if (Number.isNaN(newid) || newid < 0 || newid === undefined) {
       console.log("Incorrect input");
     }
     return newid;
